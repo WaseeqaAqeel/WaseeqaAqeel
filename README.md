@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Waseeqa Aqeel! 👋
 
-<!--
-**WaseeqaAqeel/WaseeqaAqeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Scientist** with a passion for turning data into actionable insights. I'm skilled in data analysis, machine learning, and statistical modeling, with a strong proficiency in Python, R, and SQL.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I have a background in [mention your education, e.g., Computer Science, Data Science, etc.].
+- 🌱 Currently enhancing my skills in deep learning and big data technologies.
+- 📊 I enjoy working on projects that involve data cleaning, exploratory data analysis, predictive modeling, and visualization.
+- 🤖 I have hands-on experience with popular machine learning libraries such as TensorFlow, Scikit-Learn, and Keras.
+
+## 🛠️ Skills
+
+- **Programming Languages:** Python, R, SQL
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-Learn, TensorFlow, Keras
+- **Database Management:** SQL, MySQL, PostgreSQL
+- **Tools & Platforms:** Jupyter, Git, Docker
+
