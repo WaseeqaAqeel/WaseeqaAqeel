@@ -68,3 +68,20 @@ I'm a dedicated Data Scientist with a strong background in AI, Machine Learning,
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaseeqaAqeel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </p>
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/zuhaibhussainbutt"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
+
+
+<!-- Catto gifs -->
+
+<h2 align="center">Cheers if you've read till here. So here's a cute catto 🐱 for you:</h2>
+
+<div align="center">
+    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
+      
+</div>
