@@ -27,7 +27,7 @@ I'm a dedicated Data Scientist with a strong background in AI, Machine Learning,
 ## Socials
 
 <p align="left">
-  <a href="https://www.github.com/HaseebAhmed934" target="_blank" rel="noreferrer">
+  <a href="https://github.com/WaseeqaAqeel" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
