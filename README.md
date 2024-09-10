@@ -23,16 +23,12 @@ I'm a dedicated Data Scientist with a strong background in AI, Machine Learning,
 ### Data Analysis & Visualization
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/pandas.png" width="36" height="36" alt="Pandas" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-numpy-mathematical-software-flat-flat-flat-juicy-fish.png" width="36" height="36" alt="NumPy" />
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="36" height="36" alt="Matplotlib" />
-  <img src="https://img.icons8.com/color/48/000000/seaborn.png" width="36" height="36" alt="Seaborn" />
+  <!-- Removed NumPy, Matplotlib, Seaborn -->
 </p>
 
 ### Machine Learning
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="36" height="36" alt="Scikit-Learn" />
-  <img src="https://img.icons8.com/ios/50/000000/tensorflow.png" width="36" height="36" alt="TensorFlow" />
-  <img src="https://img.icons8.com/ios/50/000000/keras.png" width="36" height="36" alt="Keras" />
+  <!-- Removed Scikit-Learn, TensorFlow, Keras -->
 </p>
 
 ### Database Management
@@ -43,7 +39,7 @@ I'm a dedicated Data Scientist with a strong background in AI, Machine Learning,
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png" width="36" height="36" alt="Jupyter" />
+  <!-- Removed Jupyter -->
   <img src="https://img.icons8.com/color/48/000000/git.png" width="36" height="36" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" width="36" height="36" alt="Docker" />
 </p>
