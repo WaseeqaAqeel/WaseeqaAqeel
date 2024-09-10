@@ -32,12 +32,14 @@ I'm a dedicated Data Scientist with a strong background in AI, Machine Learning,
 
 ## Socials
 
+ 
 <p align="left">
   <a href="https://www.github.com/WaseeqaAqeel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/material-outlined/24/000000/github.png" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/waseeqa-aqeel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" alt="LinkedIn" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
   </a>
 </p>
 
