@@ -14,62 +14,54 @@ I'm a dedicated Data Scientist with a strong background in AI, Machine Learning,
 
 ### Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="36" height="36" alt="SQL" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="36" height="36" alt="Python" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-r-programming-language-flat-flat-flat-juicy-fish.png" width="36" height="36" alt="R" />
+  <img src="https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png" width="36" height="36" alt="Java" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-database-flat-flat-flat-juicy-fish.png" width="36" height="36" alt="SQL" />
 </p>
 
 ### Data Analysis & Visualization
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matplotlib-colored.svg" width="36" height="36" alt="Matplotlib" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/seaborn-colored.svg" width="36" height="36" alt="Seaborn" />
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" width="36" height="36" alt="Pandas" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-numpy-mathematical-software-flat-flat-flat-juicy-fish.png" width="36" height="36" alt="NumPy" />
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="36" height="36" alt="Matplotlib" />
+  <img src="https://img.icons8.com/color/48/000000/seaborn.png" width="36" height="36" alt="Seaborn" />
 </p>
 
 ### Machine Learning
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikit-learn-colored.svg" width="36" height="36" alt="Scikit-Learn" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/keras-colored.svg" width="36" height="36" alt="Keras" />
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="36" height="36" alt="Scikit-Learn" />
+  <img src="https://img.icons8.com/ios/50/000000/tensorflow.png" width="36" height="36" alt="TensorFlow" />
+  <img src="https://img.icons8.com/ios/50/000000/keras.png" width="36" height="36" alt="Keras" />
 </p>
 
 ### Database Management
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" width="36" height="36" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="36" height="36" alt="PostgreSQL" />
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jupyter-colored.svg" width="36" height="36" alt="Jupyter" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/jupyter.png" width="36" height="36" alt="Jupyter" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="36" height="36" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" width="36" height="36" alt="Docker" />
 </p>
 
 ### Frameworks
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" width="36" height="36" alt="Flutter" />
+  <img src="https://img.icons8.com/color/48/000000/flask.png" width="36" height="36" alt="Flask" />
 </p>
 
 ## Socials
 
 <p align="left">
   <a href="https://www.github.com/WaseeqaAqeel" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
+    <img src="https://img.icons8.com/material-outlined/24/000000/github.png" width="32" height="32" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/waseeqa-aqeel" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
+    <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" alt="LinkedIn" />
   </a>
 </p>
 
