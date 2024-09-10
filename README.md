@@ -5,47 +5,21 @@
 I'm a dedicated Data Scientist with a strong background in AI, Machine Learning, Deep Learning, Computer Vision, and NLP. My expertise extends to frameworks such as Flask, Django, and Flutter, enabling me to deliver versatile and innovative solutions tailored to diverse needs.
 
 - 🌍 Based in Pakistan
-- ✉️ Reach me at [201980057@gift.edu.pk](mailto:201980042@gift.edu.pk)
+- ✉️ Reach me at [201980042@gift.edu.pk](mailto:201980042@gift.edu.pk)
 - 🧠 Currently learning Flutter
 - 🤝 Open to collaborating on exciting projects
 - ⚡ Always eager to discuss innovative ideas and take on new challenges!
 
 ## Skills
 
-### Programming Languages
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" width="36" height="36" alt="Python" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-r-programming-language-flat-flat-flat-juicy-fish.png" width="36" height="36" alt="R" />
   <img src="https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png" width="36" height="36" alt="Java" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-database-flat-flat-flat-juicy-fish.png" width="36" height="36" alt="SQL" />
-</p>
-
-### Data Analysis & Visualization
-<p align="left">
   <img src="https://img.icons8.com/color/48/000000/pandas.png" width="36" height="36" alt="Pandas" />
-  <!-- Removed NumPy, Matplotlib, Seaborn -->
-</p>
-
-### Machine Learning
-<p align="left">
-  <!-- Removed Scikit-Learn, TensorFlow, Keras -->
-</p>
-
-### Database Management
-<p align="left">
   <img src="https://img.icons8.com/color/48/000000/mysql.png" width="36" height="36" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="36" height="36" alt="PostgreSQL" />
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <!-- Removed Jupyter -->
   <img src="https://img.icons8.com/color/48/000000/git.png" width="36" height="36" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" width="36" height="36" alt="Docker" />
-</p>
-
-### Frameworks
-<p align="left">
   <img src="https://img.icons8.com/color/48/000000/flutter.png" width="36" height="36" alt="Flutter" />
   <img src="https://img.icons8.com/color/48/000000/flask.png" width="36" height="36" alt="Flask" />
 </p>
