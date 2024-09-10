@@ -5,7 +5,7 @@
 I'm a dedicated Data Scientist with a strong background in AI, Machine Learning, Deep Learning, Computer Vision, and NLP. My expertise extends to frameworks such as Flask, Django, and Flutter, enabling me to deliver versatile and innovative solutions tailored to diverse needs.
 
 - 🌍 Based in Pakistan
-- ✉️ Reach me at [201980057@gift.edu.pk](mailto:waseeqa489@gmail.com)
+- ✉️ Reach me at [201980057@gift.edu.pk](mailto:201980057@gift.edu.pk)
 - 🧠 Currently learning Flutter
 - 🤝 Open to collaborating on exciting projects
 - ⚡ Always eager to discuss innovative ideas and take on new challenges!
@@ -37,6 +37,7 @@ I'm a dedicated Data Scientist with a strong background in AI, Machine Learning,
 
 ### Database Management
 <p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </p>
 
