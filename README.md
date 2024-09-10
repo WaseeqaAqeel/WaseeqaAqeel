@@ -5,7 +5,7 @@
 I'm a dedicated Data Scientist with a strong background in AI, Machine Learning, Deep Learning, Computer Vision, and NLP. My expertise extends to frameworks such as Flask, Django, and Flutter, enabling me to deliver versatile and innovative solutions tailored to diverse needs.
 
 - 🌍 Based in Pakistan
-- ✉️ Reach me at [201980057@gift.edu.pk](mailto:201980042@gift.edu.pk)
+- ✉️ Reach me at [waseeqa489@gmail.com](mailto:waseeqa489@gmail.com)
 - 🧠 Currently learning Flutter
 - 🤝 Open to collaborating on exciting projects
 - ⚡ Always eager to discuss innovative ideas and take on new challenges!
