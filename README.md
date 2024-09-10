@@ -69,7 +69,7 @@ I'm a dedicated Data Scientist with a strong background in AI, Machine Learning,
   </a>
 </p>
 
- Support Me
+ **Support Me**
 
 <ul style="list-style-type: none; margin: 0;">
 
