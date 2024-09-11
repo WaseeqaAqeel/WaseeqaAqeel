@@ -78,6 +78,8 @@ I'm a dedicated Data Scientist with a strong background in AI, Machine Learning,
 <!-- Catto gifs -->
 
 <h2 align="center">Cheers if you've read till here. So here's a cute catto 🐱 for you:</h2>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX7lQ8CKp7pD4dw4X/giphy.gif" width="250" height="250" />
+    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
+      
 </div>
