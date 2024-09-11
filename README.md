@@ -48,7 +48,6 @@ I'm a dedicated Data Scientist with a strong background in AI, Machine Learning,
   </a>
 </p>
 
-
 ## GitHub Stats
 
 **My GitHub Stats**
@@ -69,15 +68,18 @@ I'm a dedicated Data Scientist with a strong background in AI, Machine Learning,
   </a>
 </p>
 
- ## **Support Me**
+## 🐍 Contribution Snake
 
- 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+## **Support Me**
 
 <!-- Catto gifs -->
 
 <h2 align="center">Cheers if you've read till here. So here's a cute catto 🐱 for you:</h2>
 
 <div align="center">
-    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
-      
+    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/catto.gif" width="250" height="250" />
 </div>
